@@ -1,0 +1,6 @@
+PaneerKulcha 25
+coffee 10
+tea 8
+ColdDrink 30
+Hotdog 15
+Icecream 30
